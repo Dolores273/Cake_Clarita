@@ -115,6 +115,6 @@ Propósito: Proyecto educativo para gestión de bases de datos y desarrollo web.
 
 <img width="1842" height="994" alt="Captura desde 2026-05-18 22-35-22" src="https://github.com/user-attachments/assets/6787f6e7-5122-4b95-a069-9b137fc93c09" />
 
-
+<img width="1920" height="1200" alt="Captura desde 2026-05-19 22-04-42" src="https://github.com/user-attachments/assets/475771bf-9770-4da0-9c9f-3e286a0eb015" />
 
 
